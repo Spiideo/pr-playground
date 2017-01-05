@@ -1,0 +1,1 @@
+This is another file, it has only one line so could generate a lot of merge conflicts if we're not careful.
